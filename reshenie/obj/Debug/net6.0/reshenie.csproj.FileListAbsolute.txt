@@ -1,0 +1,15 @@
+/Users/chuprinov.d/Контрольная работа/reshenie/bin/Debug/net6.0/reshenie
+/Users/chuprinov.d/Контрольная работа/reshenie/bin/Debug/net6.0/reshenie.deps.json
+/Users/chuprinov.d/Контрольная работа/reshenie/bin/Debug/net6.0/reshenie.runtimeconfig.json
+/Users/chuprinov.d/Контрольная работа/reshenie/bin/Debug/net6.0/reshenie.dll
+/Users/chuprinov.d/Контрольная работа/reshenie/bin/Debug/net6.0/reshenie.pdb
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.csproj.AssemblyReference.cache
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.AssemblyInfoInputs.cache
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.AssemblyInfo.cs
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.csproj.CoreCompileInputs.cache
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.dll
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/refint/reshenie.dll
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.pdb
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/reshenie.genruntimeconfig.cache
+/Users/chuprinov.d/Контрольная работа/reshenie/obj/Debug/net6.0/ref/reshenie.dll
